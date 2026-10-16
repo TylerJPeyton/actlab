@@ -27,7 +27,7 @@ as a formula sheet.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/actlab.git
+git clone https://github.com/TylerJPeyton/actlab.git
 cd actlab
 python -m venv .venv
 .venv\Scripts\activate        # Windows; on macOS/Linux: source .venv/bin/activate
